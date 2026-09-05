@@ -7,9 +7,7 @@ public:
             }
         }
         
-            if(m%n!=0){
-                num+=i;
-            }
+           
     }
         for(int i=0;i<max(n,m);i++){
         return sum-num;
