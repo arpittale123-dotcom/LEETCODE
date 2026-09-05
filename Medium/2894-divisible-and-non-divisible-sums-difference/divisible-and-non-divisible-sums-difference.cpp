@@ -8,7 +8,7 @@ public:
             }
         }
         for(int i=1;i<=m;i++){
-            if(i%n!=0){
+            if(i%m!=0){
                 num+=i;
             }
         }
