@@ -3,7 +3,7 @@
 **Difficulty**: `Medium` | **Language**: `cpp` | **Problem Link**: [LeetCode](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/)
 
 ## 🚀 Performance Metrics
-- **Runtime**: `0 ms` 
+- **Runtime**: `2 ms` 
 - **Memory**: `7.8 MB` 
 
 ---
