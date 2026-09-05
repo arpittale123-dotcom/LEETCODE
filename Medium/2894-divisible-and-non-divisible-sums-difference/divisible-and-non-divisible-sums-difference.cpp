@@ -11,6 +11,6 @@ public:
                 num+=i;
             }
     }
-        for(int i=0;i<n+m;i++){
+        for(int i=0;i<max(n,m);i++){
         return sum-num;
 };
