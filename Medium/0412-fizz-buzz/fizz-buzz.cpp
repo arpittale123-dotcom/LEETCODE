@@ -9,9 +9,12 @@
                 ans.push_back("Buzz");
             }
             else{
-                ans.push_back("i");
+                ans.push_back(to_string(i));
             }
         }
         return ans;
-    }
-};
+        vector<string> ans;
+    vector<string> fizzBuzz(int n) {
+public:
+class Solution {
+
